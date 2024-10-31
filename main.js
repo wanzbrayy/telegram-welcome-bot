@@ -38,8 +38,8 @@ if (!options['persistence-path']) console.warn(`⚠️   No --persistence-path (
 // constants
 
 // bot info
-const API_TOKEN = options['api-token']
-const BOT_USERNAME = options['bot-username']
+const API_TOKEN = options['7891724607:AAEykMMjGoU2P2s4O8RV32YAlq1NwvTBytM']
+const BOT_USERNAME = options['ASISTEN WANZOFC']
 const PERSISTENCE_PATH = options['persistence-path'] || DEFAULT_PERSISTENCE_PATH
 const BOT_ID = +API_TOKEN.split(':')[0]
 
